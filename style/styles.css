@@ -145,6 +145,7 @@ footer .social img{
     border: 10px solid black;
     transition: transform .5s;
     box-shadow: 5px 5px 10px black;
+    width: 100%;
 }
 .card-img:hover{
     opacity: .6;
